@@ -5,7 +5,9 @@ Just a MNIST dataset in different formats
 THE MNIST DATABASE of handwritten digits
 
 Yann LeCun, Courant Institute, NYU
+
 Corinna Cortes, Google Labs, New York
+
 Christopher J.C. Burges, Microsoft Research, Redmond
 
 Just a mirror of http://yann.lecun.com/exdb/mnist/
