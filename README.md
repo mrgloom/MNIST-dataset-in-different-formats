@@ -2,21 +2,14 @@
 Just a MNIST dataset in different formats
 
 ~~~
- Markup : 1. A numbered list
-           1. A nested numbered list
-           2. Which is numbered
-          2. Which is numbered
-~~~
-
 THE MNIST DATABASE of handwritten digits
 
 Yann LeCun, Courant Institute, NYU
-
 Corinna Cortes, Google Labs, New York
-
 Christopher J.C. Burges, Microsoft Research, Redmond
 
 Just a mirror of http://yann.lecun.com/exdb/mnist/
+~~~
 
 For classification error % results introduced in literature please refer to
 1. http://yann.lecun.com/exdb/mnist/
