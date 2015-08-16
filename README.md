@@ -24,7 +24,28 @@ For examples and practical results:
 
 Data folder:
 ~~~
-1) Original dataset - Original MNIST dataset in binary format from http://yann.lecun.com/exdb/mnist/
-2) CSV format - MNIST IN CSV fromat from http://pjreddie.com/projects/mnist-in-csv/
-3) Matlab format - MNIST IN Matlab .mat fromat from http://www.cs.nyu.edu/~roweis/data.html
+1) Original dataset - Original MNIST dataset in binary format(not compressed)
+        http://yann.lecun.com/exdb/mnist/
+2) CSV format - MNIST IN CSV fromat
+        http://pjreddie.com/projects/mnist-in-csv/
+3) Matlab format - MNIST IN Matlab .mat fromat
+        http://ufldl.stanford.edu/wiki/index.php/Using_the_MNIST_Dataset
+        also not conventional .mat can be found here http://www.cs.nyu.edu/~roweis/data.html
+~~~
+
+How to load MNIST in X language:
+~~~
+in R: 
+  https://gist.github.com/brendano/39760
+in Python:
+
+in C++:
+  http://stackoverflow.com/questions/8286668/how-to-read-mnist-data-in-c
+  https://compvisionlab.wordpress.com/2014/01/01/c-code-for-reading-mnist-data-set/
+in Java:
+  http://stackoverflow.com/questions/8286668/how-to-read-mnist-data-in-c
+in F#:
+  http://stackoverflow.com/questions/19370314/reading-the-mnist-dataset-using-f
+  
+  
 ~~~
