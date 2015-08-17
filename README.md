@@ -38,7 +38,12 @@ How to load MNIST in X language:
 in R: 
   https://gist.github.com/brendano/39760
 in Python:
-
+        1. https://github.com/sorki/python-mnist
+        
+        2. using sklearn.datasets.fetch_mldata                      
+        http://scikit-learn.org/stable/datasets/#downloading-datasets-from-the-mldata-org-repository
+        
+        3. Also you can convert MNIST to csv and read .csv file in python.
 in C++:
   http://stackoverflow.com/questions/8286668/how-to-read-mnist-data-in-c
   https://compvisionlab.wordpress.com/2014/01/01/c-code-for-reading-mnist-data-set/
