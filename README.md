@@ -56,5 +56,6 @@ in F#:
 ~~~
 
 Visualization of MNIST:
+
 1. t-sne
       http://lvdmaaten.github.io/tsne/
