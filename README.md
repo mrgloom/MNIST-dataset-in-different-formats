@@ -33,6 +33,13 @@ Data folder:
         also not conventional .mat can be found here http://www.cs.nyu.edu/~roweis/data.html
 ~~~
 
+
+Convert to some specialized formats:
+~~~
+1)lmdb (default) or leveldb formats used in Caffe library
+https://github.com/BVLC/caffe/blob/master/examples/mnist/convert_mnist_data.cpp
+~~~
+
 How to load MNIST in X language:
 ~~~
 in R: 
