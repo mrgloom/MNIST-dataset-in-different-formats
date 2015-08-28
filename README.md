@@ -69,6 +69,7 @@ Visualization of MNIST:
 
 
 Sources of inspiration:
+
 1. https://github.com/grfiv/MNIST
 2. 
 
