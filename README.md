@@ -66,3 +66,11 @@ Visualization of MNIST:
 
 1. t-sne
       http://lvdmaaten.github.io/tsne/
+
+
+Sources of inspiration:
+1. https://github.com/grfiv/MNIST
+2. 
+
+Code that I do NOT recommend to use:
+1. 
