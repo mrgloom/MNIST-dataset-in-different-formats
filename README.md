@@ -8,7 +8,7 @@ Yann LeCun, Courant Institute, NYU
 Corinna Cortes, Google Labs, New York
 Christopher J.C. Burges, Microsoft Research, Redmond
 
-Just a mirror of http://yann.lecun.com/exdb/mnist/
+Dataset can be downloaded at http://yann.lecun.com/exdb/mnist/
 ~~~
 
 For classification error % results introduced in literature please refer to
