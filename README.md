@@ -66,6 +66,7 @@ Visualization of MNIST:
 
 1. t-sne
       http://lvdmaaten.github.io/tsne/
+      http://lvdmaaten.github.io/tsne/examples/mnist_tsne.jpg
 
 
 Sources of inspiration:
