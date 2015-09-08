@@ -73,6 +73,7 @@ Sources of inspiration:
 
 1. https://github.com/grfiv/MNIST
 2. https://github.com/siddharth-agrawal/Softmax-Regression
+3. http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html
 
 Code that I do NOT recommend to use:
 
