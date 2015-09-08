@@ -22,10 +22,6 @@ For examples and practical results:
 1) https://www.kaggle.com/c/digit-recognizer
 ~~~
 
-Examples:
-
-1. https://github.com/siddharth-agrawal/Softmax-Regression
-
 Data folder:
 ~~~
 1) Original dataset - Original MNIST dataset in binary format(not compressed)
