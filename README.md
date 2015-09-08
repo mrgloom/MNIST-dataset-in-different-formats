@@ -23,6 +23,7 @@ For examples and practical results:
 ~~~
 
 Examples:
+
 1. https://github.com/siddharth-agrawal/Softmax-Regression
 
 Data folder:
