@@ -75,6 +75,11 @@ Sources of inspiration:
 2. https://github.com/siddharth-agrawal/Softmax-Regression
 3. http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html
 
+To look at:
+~~~
+https://github.com/yburda/iwae
+~~~
+
 Code that I do NOT recommend to use:
 
 1. 
