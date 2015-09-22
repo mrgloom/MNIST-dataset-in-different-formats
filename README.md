@@ -78,6 +78,7 @@ Sources of inspiration:
 To look at:
 ~~~
 https://github.com/yburda/iwae
+https://github.com/vsvinayak/mnist-helper
 ~~~
 
 Code that I do NOT recommend to use:
