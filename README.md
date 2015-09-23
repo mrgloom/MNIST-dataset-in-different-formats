@@ -68,6 +68,9 @@ Visualization of MNIST:
       http://lvdmaaten.github.io/tsne/
       http://lvdmaaten.github.io/tsne/examples/mnist_tsne.jpg
 
+Additional data:
+1. http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/MnistVariations
+2. http://leon.bottou.org/projects/infimnist
 
 Sources of inspiration:
 
