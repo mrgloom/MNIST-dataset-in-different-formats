@@ -82,6 +82,9 @@ To look at:
 ~~~
 https://github.com/yburda/iwae
 https://github.com/vsvinayak/mnist-helper
+
+projects that work with MNIST
+https://github.com/AnonymousWombat/BinaryConnect
 ~~~
 
 Code that I do NOT recommend to use:
