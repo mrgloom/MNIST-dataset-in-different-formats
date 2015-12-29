@@ -84,6 +84,8 @@ To look at:
 https://github.com/yburda/iwae
 https://github.com/vsvinayak/mnist-helper
 
+https://github.com/sugyan/tensorflow-mnist
+
 projects that work with MNIST
 https://github.com/AnonymousWombat/BinaryConnect
 ~~~
