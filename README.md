@@ -86,6 +86,8 @@ https://github.com/vsvinayak/mnist-helper
 
 https://github.com/sugyan/tensorflow-mnist
 
+https://github.com/jliemansifry/mnist-fun
+
 projects that work with MNIST
 https://github.com/AnonymousWombat/BinaryConnect
 ~~~
