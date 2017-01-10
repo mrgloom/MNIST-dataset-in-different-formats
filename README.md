@@ -91,7 +91,3 @@ https://github.com/jliemansifry/mnist-fun
 projects that work with MNIST
 https://github.com/AnonymousWombat/BinaryConnect
 ~~~
-
-Code that I do NOT recommend to use:
-
-1. 
