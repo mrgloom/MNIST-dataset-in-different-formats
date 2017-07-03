@@ -81,6 +81,7 @@ Sources of inspiration:
 
 To look at:
 ~~~
+https://github.com/grfiv/MNIST/blob/master/MNIST.pdf
 https://github.com/yburda/iwae
 https://github.com/vsvinayak/mnist-helper
 
